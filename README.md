@@ -30,10 +30,4 @@ Computer science student focused on building real-world software, AI systems, an
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tadeycek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeycek&theme=dark&hide_border=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tadeycek&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=tadeycek&icon=2&color=6)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeycek&theme=dark&hide_border=f
