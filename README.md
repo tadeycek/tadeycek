@@ -30,4 +30,4 @@ Computer science student focused on building real-world software, AI systems, an
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tadeycek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeycek&theme=dark&hide_border=f
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeycek&theme=dark&hide_border=false&layout=compact)
