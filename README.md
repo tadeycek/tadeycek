@@ -1,7 +1,7 @@
-# 💫 About Me:
-Computer science student focused on building real-world software, AI systems, and scalable backend solutions.<br><br>🔭 I'm currently working on<br>Homelab infrastructure, AI agents, and full-stack applications (Flutter, Angular, Node.js).<br><br>🤝 I'm looking to collaborate on<br>AI-driven systems, backend architecture, and innovative full-stack projects.<br><br>🌱 I'm currently learning<br>Advanced system design, distributed systems, and AI integration.<br><br>💬 Ask me about<br>Self-hosting, Docker, Flutter apps, Supabase, local AI (Ollama), and backend systems.
+# About Me:
+Computer science student working on<br>AI agents, full-stack applications (Flutter, Angular, Node.js).<br><br>I'm currently learning<br>Advanced system design, distributed systems, and AI integration.
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,6 +27,3 @@ Computer science student focused on building real-world software, AI systems, an
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeycek&theme=dark&hide_border=false&layout=compact)
